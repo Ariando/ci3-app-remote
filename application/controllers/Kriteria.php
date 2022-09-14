@@ -6,7 +6,7 @@ class Kriteria extends CI_Controller
     public function index()
     {
         $data['kriteria'] = $this->m_kriteria->tampil_data()->result();
-        $data['title'] = 'DATA KRITERIA';
+        $data['title'] = 'KRITERIA';
 
         $this->load->view('templates/header.php', $data);
         $this->load->view('kriteria/index.php', $data);

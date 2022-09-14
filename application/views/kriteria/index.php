@@ -91,7 +91,7 @@
         <div class="container-fluid">
             <div class="row mb-0">
                 <div class="col-sm-6">
-                    <h4 class="m-0">Data Kriteria</h4>
+                    <h4 class="m-0">Kriteria</h4>
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@
                                 <thead style="text-align: center;">
                                     <tr>
                                         <th style="width: 5%;">#</th>
-                                        <th>Kode</th>
+                                        <th>Kodet</th>
                                         <th>Nama</th>
                                         <th>Bobot</th>
                                         <th>Atribut</th>
